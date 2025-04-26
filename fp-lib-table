@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "project")(type "KiCad")(uri "${KIPRJMOD}/three_half_bridges.pretty")(options "")(descr ""))
+)
